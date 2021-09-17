@@ -1,4 +1,35 @@
 * {
   background-color: #a0eb21;
-  opacity: .4;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  /* opacity: .4; */
+}
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#title, h3{
+  text-align: center;
+  font-weight: 600;
+}
+
+
+figure {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
+
+img {
+max-width: 100%;
+display: block;
+height: auto;
+margin: 0 auto;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
 }
